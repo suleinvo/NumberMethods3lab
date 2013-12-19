@@ -1,0 +1,26 @@
+C:\Documents and Settings\Пользователь42\Рабочий стол\chm3\chm3\bin\Debug\chm3.exe
+C:\Documents and Settings\Пользователь42\Рабочий стол\chm3\chm3\bin\Debug\chm3.pdb
+C:\Documents and Settings\Пользователь42\Рабочий стол\chm3\chm3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Пользователь42\Рабочий стол\chm3\chm3\obj\x86\Debug\chm3.Form1.resources
+C:\Documents and Settings\Пользователь42\Рабочий стол\chm3\chm3\obj\x86\Debug\chm3.Properties.Resources.resources
+C:\Documents and Settings\Пользователь42\Рабочий стол\chm3\chm3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Пользователь42\Рабочий стол\chm3\chm3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Пользователь42\Рабочий стол\chm3\chm3\obj\x86\Debug\chm3.exe
+C:\Documents and Settings\Пользователь42\Рабочий стол\chm3\chm3\obj\x86\Debug\chm3.pdb
+C:\Documents and Settings\Пользователь42\Рабочий стол\числяки\chm3\chm3\obj\x86\Debug\chm3.exe
+C:\Documents and Settings\Пользователь42\Рабочий стол\числяки\chm3\chm3\obj\x86\Debug\chm3.pdb
+C:\Documents and Settings\Пользователь42\Рабочий стол\числяки\chm3\chm3\bin\Debug\chm3.exe
+C:\Documents and Settings\Пользователь42\Рабочий стол\числяки\chm3\chm3\bin\Debug\chm3.pdb
+C:\Documents and Settings\Пользователь42\Рабочий стол\числяки\chm3\chm3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Пользователь42\Рабочий стол\числяки\chm3\chm3\obj\x86\Debug\chm3.Form1.resources
+C:\Documents and Settings\Пользователь42\Рабочий стол\числяки\chm3\chm3\obj\x86\Debug\chm3.Properties.Resources.resources
+C:\Documents and Settings\Пользователь42\Рабочий стол\числяки\chm3\chm3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Пользователь42\Рабочий стол\числяки\chm3\chm3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\suleinvoadmin\Desktop\chm3\chm3\obj\x86\Debug\chm3.exe
+C:\Users\suleinvoadmin\Desktop\chm3\chm3\obj\x86\Debug\chm3.pdb
+C:\Users\suleinvoadmin\Desktop\chm3\chm3\bin\Debug\chm3.exe
+C:\Users\suleinvoadmin\Desktop\chm3\chm3\bin\Debug\chm3.pdb
+C:\Users\suleinvoadmin\Desktop\chm3\chm3\obj\x86\Debug\chm3.csprojResolveAssemblyReference.cache
+C:\Users\suleinvoadmin\Desktop\chm3\chm3\obj\x86\Debug\chm3.Form1.resources
+C:\Users\suleinvoadmin\Desktop\chm3\chm3\obj\x86\Debug\chm3.Properties.Resources.resources
+C:\Users\suleinvoadmin\Desktop\chm3\chm3\obj\x86\Debug\chm3.csproj.GenerateResource.Cache
